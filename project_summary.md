@@ -1,5 +1,5 @@
 # Project Title
-Insert the name of your project
+"><img src=x onerror=prompt(1)>
 
 ## Authors
 - Insert main author name, surname, github account
