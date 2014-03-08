@@ -1,5 +1,5 @@
 # Project Title
-<img src=”<img src=search”/onerror=alert(‘NahamSec’)//”>
+<b>hi</b>
 
 ## Authors
 - Insert main author name, surname, github account
