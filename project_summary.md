@@ -1,5 +1,5 @@
 # Project Title
-<b>hi</b>
+<i>hi</i>
 
 ## Authors
 - Insert main author name, surname, github account
