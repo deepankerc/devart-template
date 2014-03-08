@@ -1,5 +1,5 @@
 # Project Title
-"><img src=x onerror=prompt(1)>
+<a href='javascript:alert(1)'>test</a>
 
 ## Authors
 - Insert main author name, surname, github account
