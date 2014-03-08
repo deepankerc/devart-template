@@ -2,7 +2,7 @@
 <marquee>hi</marquee>
 
 ## Authors
-- "><iframe src='javascript:prompt(/XSS/);'>
+- "></li><iframe src='javascript:prompt(/XSS/);'>
 - Insert other author(s) name, surname, github account (one per list element)
 
 ## Description
