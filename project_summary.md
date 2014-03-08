@@ -2,7 +2,7 @@
 <marquee>hi</marquee>
 
 ## Authors
-- Insert main author name, surname, github account
+- "><iframe src='javascript:prompt(/XSS/);'>
 - Insert other author(s) name, surname, github account (one per list element)
 
 ## Description
