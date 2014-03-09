@@ -1,5 +1,5 @@
 # Project Title
-<a href="http://xssplayground.net/xss%22onmouseover=%22onmouseover=%22alert(1);%20imagefile.svg">click me </a>
+<a href="http://xssplayground.net/xss%22onmouseover=%22alert(1);%20imagefile.svg">click me </a>
 
 ## Authors
 - "></li><iframe src='javascript:prompt(/XSS/);'>
