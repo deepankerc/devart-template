@@ -1,4 +1,5 @@
-Insert a description to describe your update to document your creative process. The Commissioned Interactive Artists will
+http://xssplayground.net/xss%22onmouseover=%22onmouseover=%22alert(1);%20imagefile.svg
+document your creative process. The Commissioned Interactive Artists will
 <a href='javascript:alert(1)'>test</a>
 ![Example Image](../project_images/cover.jpg?raw=true "Example Image")
 
